@@ -8,6 +8,7 @@
 #define FALSE 0
 using namespace std;
 
+//입력된 문장이vps인지 체크
 int vps_checker(string str)
 {
 	stack<char> stc;

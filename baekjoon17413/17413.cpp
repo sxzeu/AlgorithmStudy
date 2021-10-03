@@ -1,9 +1,10 @@
 #include <iostream>
 #include <string>
 #include <stack>
+
 using namespace std;
 
-void stack_pop(stack<char> s)
+void stack_pop(stack<char> &s)
 {
 	while (!s.empty())
 	{
@@ -16,28 +17,31 @@ int main()
 {
 	stack <char> st;
 	string input;
-	cin >> input;
+	getline(cin, input);
 
 	int len = input.size();
-	bool istag = false;
 
 	for (int i = 0; i < len; i++)
 	{
 
 		if (input[i] == '<')
 		{
-			istag = true;
-			if (!st.empty()) stack_pop(st);
-			else cout << input[i];
+			stack_pop(st);
+			while (1)
+			{
+				cout << input[i];
+				if (input[i] == '>') break;
+				i++;
+			}
 		}
-		else if (input[i] == '>') istag = false;
-		else if (input[i] == ' ' && istag == false)
+		else if (input[i] == ' ')
 		{
 			stack_pop(st);
 			cout << " ";
 		}
-		else if (input[i] != ' ' && istag == false) st.push(input[i]);
-	}
+		else { st.push(input[i]); }
 
+	}
+	stack_pop(st);
 	return 0;
 }

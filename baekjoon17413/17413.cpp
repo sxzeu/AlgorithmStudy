@@ -3,13 +3,22 @@
 #include <stack>
 using namespace std;
 
+void stack_pop(stack<char> s)
+{
+	while (!s.empty())
+	{
+		cout << s.top();
+		s.pop();
+	}
+}
+
 int main()
 {
 	stack <char> st;
 	string input;
 	cin >> input;
 
-	int len = input.length();
+	int len = input.size();
 	bool istag = false;
 
 	for (int i = 0; i < len; i++)
@@ -17,23 +26,14 @@ int main()
 
 		if (input[i] == '<')
 		{
-			if (!st.empty()) {
-				while (st.empty())
-				{
-					cout << st.top();
-					st.pop();
-				}
-			}
 			istag = true;
+			if (!st.empty()) stack_pop(st);
+			else cout << input[i];
 		}
-		if (input[i] == '>') istag = false;
-		if (input[i] == ' ' && istag == false)
+		else if (input[i] == '>') istag = false;
+		else if (input[i] == ' ' && istag == false)
 		{
-			while (st.empty())
-			{
-				cout << st.top();
-				st.pop();
-			}
+			stack_pop(st);
 			cout << " ";
 		}
 		else if (input[i] != ' ' && istag == false) st.push(input[i]);

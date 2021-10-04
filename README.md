@@ -9,5 +9,6 @@
 - [1158 queue를 이용한 요세푸스 문제(C++/ queue STL)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1158)
 - [10866 deque 풀이(C++/deque STL)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon10866)
 - [17413 단어 뒤집기2(C++/stack STL)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon17413)
+- [10779 쇠막대기(C++/stack STL)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon10799)
 
 ## [programmers](https://programmers.co.kr/)

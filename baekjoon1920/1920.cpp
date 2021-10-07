@@ -21,6 +21,8 @@ int main()
 		cin >> input;
 		v1.push_back(input);
 	}
+	sort(v1.begin(), v1.end());
+	
 	cin >> m;
 	for (int i = 0; i < m; i++)
 	{
@@ -30,7 +32,10 @@ int main()
 
 	for (int i = 0; i < m ; i++) 
 	{
-		if (binary_search(v1.begin(), v1.end(), v2[i])) cout << "1" <<"\n";
+		if (binary_search(v1.begin(), v1.end(), v2[i]))
+		{
+			cout << "1" << "\n";
+		}
 		else cout << "0" << "\n";
 	}
 	

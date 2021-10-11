@@ -17,13 +17,14 @@
 ### 풀이법
  - vector 컨테이너를 통해 단어를 입력하고자 하는 수 만큼 입력받는다.
  - algorithm 헤더에 내장된 함수인 sort()함수를 이용해 단어를 정렬해 출력한다.
+ - 이때 sort()함수를 사용하며, compare함수를 만들고 이용해 문제에서 제시된 출력기준을 충족시키며 단어들을 정렬한다.
 
 
 ### 코드
 ```
 #include <iostream>
-#include <vector>
 #include <algorithm>
+#include <vector>
 
 using namespace std;
 
@@ -35,12 +36,15 @@ bool compare(string a, string b) {
 int main() {
 
     vector <string> input;
+    
+    string str;
+    string tmp;
+    
     int n;
     cin >> n;
-    string tmp;
+  
 
     for (int i = 0; i < n; i++) {
-        string str;
         cin >> str;
         input.push_back(str);
     }
@@ -52,6 +56,7 @@ int main() {
         tmp = input[i];
         cout << input[i] << '\n';
     }
+    
     return 0;
 }
 ```

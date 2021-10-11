@@ -23,8 +23,8 @@
 ### 코드
 ```
 #include <iostream>
-#include <vector>
 #include <algorithm>
+#include <vector>
 
 using namespace std;
 
@@ -36,12 +36,15 @@ bool compare(string a, string b) {
 int main() {
 
     vector <string> input;
+    
+    string str;
+    string tmp;
+    
     int n;
     cin >> n;
-    string tmp;
+  
 
     for (int i = 0; i < n; i++) {
-        string str;
         cin >> str;
         input.push_back(str);
     }
@@ -53,6 +56,7 @@ int main() {
         tmp = input[i];
         cout << input[i] << '\n';
     }
+    
     return 0;
 }
 ```

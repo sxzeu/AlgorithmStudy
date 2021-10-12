@@ -13,5 +13,6 @@
 - [1920 수 찾기(C++/STL)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1920)
 - [1181 단어정렬(C++/vector STL)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1181)
 - [11726 2XN 타일링(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11726)
+- [11727 2XN 타일링2 (C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11727)
 
 ## [programmers](https://programmers.co.kr/)

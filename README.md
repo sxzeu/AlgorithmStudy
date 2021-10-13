@@ -14,5 +14,6 @@
 - [1181 단어정렬(C++/vector STL)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1181)
 - [11726 2XN 타일링(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11726)
 - [11727 2XN 타일링2 (C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11727)
+- [2133 타일채우기 (C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2133)
 
 ## [programmers](https://programmers.co.kr/)

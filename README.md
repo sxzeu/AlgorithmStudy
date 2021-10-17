@@ -17,5 +17,8 @@
 - [11727 2XN 타일링2 (C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11727)
 - [2133 타일채우기 (C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2133)
 - [9095 1,2,3 더하기(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon9095)
+- [11052 카드 구매하기(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11052)
+- [16194 카드 구매하기2(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon16194)
+- [15990 1,2,3 더하기5(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15990)
 
 ## [programmers](https://programmers.co.kr/)

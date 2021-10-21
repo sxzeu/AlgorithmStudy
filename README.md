@@ -21,5 +21,7 @@
 - [16194 카드 구매하기2(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon16194)
 - [15990 1,2,3 더하기5(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15990)
 - [10844 쉬운 계단수(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon10844)
+- [2193 이친수 (C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2193)
+- [1912 연속합(C++/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1912)
 
 ## [programmers](https://programmers.co.kr/)

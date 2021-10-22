@@ -22,5 +22,6 @@
 - [15990 1,2,3 더하기5(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15990)
 - [10844 쉬운 계단수(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon10844)
 - [2193 이친수 (C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2193)
-
+- [1912 연속합(C++/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1912)
+- [1699 제곱수의 합(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1699)
 ## [programmers](https://programmers.co.kr/)

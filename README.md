@@ -24,4 +24,9 @@
 - [2193 이친수 (C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2193)
 - [1912 연속합(C++/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1912)
 - [1699 제곱수의 합(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1699)
+- [15988 1,2,3더하기3(C/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15988)
+- [1991 트리 순회(C++/트리)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1991)
+- [10815 숫자카드(C++/탐색)(이중루프를 이용한 탐색, 시간 초과 풀이)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon10815)
+
+
 ## [programmers](https://programmers.co.kr/)

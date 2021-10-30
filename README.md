@@ -30,6 +30,7 @@
 - [1476 날짜 계산(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1476)
 - [1748 수 이어 쓰기 1(C/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1748)
 - [15649 N과 M(1)(C/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15649)
+- [15650 N과 M(2)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15650)
 
 
 ## [programmers](https://programmers.co.kr/)

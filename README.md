@@ -31,6 +31,6 @@
 - [1748 수 이어 쓰기 1(C/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1748)
 - [15649 N과 M(1)(C/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15649)
 - [15650 N과 M(2)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15650)
-
+- [15651 N과 M(3)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15651)
 
 ## [programmers](https://programmers.co.kr/)

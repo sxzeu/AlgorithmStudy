@@ -1,5 +1,6 @@
 # Algorithm Study
 
+[백준 프로필 바로가기](https://www.acmicpc.net/user/ddagaebee)
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net/)
 
@@ -33,5 +34,6 @@
 - [15650 N과 M(2)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15650)
 - [15651 N과 M(3)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15651)
 - [15652 N과 M(4)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15652)
+- [15654 N과 M(5)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15654)
 
 ## [programmers](https://programmers.co.kr/)

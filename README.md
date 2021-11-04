@@ -1,5 +1,6 @@
 # Algorithm Study
 
+[백준 프로필 바로가기](https://www.acmicpc.net/user/ddagaebee)
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net/)
 
@@ -29,6 +30,11 @@
 - [10815 숫자카드(C++/탐색)(이중루프를 이용한 탐색, 시간 초과 풀이)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon10815)
 - [1476 날짜 계산(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1476)
 - [1748 수 이어 쓰기 1(C/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1748)
-
+- [15649 N과 M(1)(C/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15649)
+- [15650 N과 M(2)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15650)
+- [15651 N과 M(3)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15651)
+- [15652 N과 M(4)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15652)
+- [15654 N과 M(5)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15654)
+- [15655 N과 M(6)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15655)
 
 ## [programmers](https://programmers.co.kr/)

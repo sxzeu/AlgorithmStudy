@@ -5,7 +5,6 @@
 
 using namespace std;
 
-bool visited[8] = { 0, };
 int list[8] = { 0, };
 vector<int> v;
 int m, n;
@@ -26,10 +25,8 @@ void dfs(int num)
 	{
 		for (int i = 0; i < m; i++)
 		{
-			visited[i] = true;
 			list[num] = v[i];
 			dfs(num + 1);
-			visited[i] = false;
 		}
 	}
 }

@@ -37,5 +37,10 @@
 - [15654 N과 M(5)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15654)
 - [15655 N과 M(6)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15655)
 - [15656 N과 M(7)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15656)
+- [15657 N과 M(8)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15657)
+- [15663 N과 M(9)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15663)
+- [15664 N과 M(10)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15664)
+- [15665 N과 M(11)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15665)
+- [15666 N과 M(12)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15666)
 
 ## [programmers](https://programmers.co.kr/)

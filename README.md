@@ -44,5 +44,6 @@
 - [15666 N과 M(12)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15666)
 - [2309 일곱 난쟁이(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2309)
 - [10773 제로(C++/vector)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon10773)
+- [11725 트리의 부모 찾기(C++/tree)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11725)
 
 ## [programmers](https://programmers.co.kr/)

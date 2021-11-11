@@ -32,7 +32,7 @@
 - [1748 수 이어 쓰기 1(C/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1748)
 - [15649 N과 M(1)(C/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15649)
 - [15650 N과 M(2)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15650)
-- [15651 N과 M(3)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15651)(수정 예정)
+- [15651 N과 M(3)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15651)
 - [15652 N과 M(4)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15652)
 - [15654 N과 M(5)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15654)
 - [15655 N과 M(6)(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon15655)
@@ -46,6 +46,6 @@
 - [10773 제로(C++/vector)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon10773)
 - [11725 트리의 부모 찾기(C++/tree)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11725)
 - [13023 ABCDE(C++/DFS)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon13023)
-- [18111 마인크래프트(C++)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon18111)
+- [18111 마인크래프트(C++)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon18111)(수정 예정)
 
 ## [programmers](https://programmers.co.kr/)

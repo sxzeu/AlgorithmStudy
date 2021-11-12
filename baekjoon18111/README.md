@@ -30,7 +30,11 @@
  - 곧 수정 예정
 
 
-### 코드
+### 수정 풀이
+ - https://codecollector.tistory.com/678 해당 블로그 참고하며 문제 접근 방식이 틀렸음을 이해함
+ - 이해 후 풀이 완료
+
+### 코드 (틀린 풀이)
 ```
 #include <iostream>
 #include <vector>

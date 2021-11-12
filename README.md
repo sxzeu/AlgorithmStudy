@@ -47,5 +47,6 @@
 - [11725 트리의 부모 찾기(C++/tree)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11725)
 - [13023 ABCDE(C++/DFS)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon13023)
 - [18111 마인크래프트(C++)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon18111)
+- [1260 DFS와 BFS(C++)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1260)
 
 ## [programmers](https://programmers.co.kr/)

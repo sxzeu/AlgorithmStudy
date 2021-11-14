@@ -49,5 +49,6 @@
 - [18111 마인크래프트(C++)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon18111)
 - [1260 DFS와 BFS(C++)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1260)
 - [11723 집합(C++/BitMask)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11723)
+- [1182 부분수열의 합(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1182)
 
 ## [programmers](https://programmers.co.kr/)

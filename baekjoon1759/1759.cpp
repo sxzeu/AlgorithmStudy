@@ -4,7 +4,6 @@
 using namespace std;
 
 char arr[16];
-bool visited[16] = { 0, };
 bool aeiou[16] = { 0, };
 char list[16];
 int l, c;

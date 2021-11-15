@@ -51,5 +51,6 @@
 - [11723 집합(C++/BitMask)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11723)
 - [1182 부분수열의 합(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1182)
 - [1759 암호 만들기(C++/brute force)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1759)
+- [11724 연결 요소의 개수(C++)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon11724)
 
 ## [programmers](https://programmers.co.kr/)

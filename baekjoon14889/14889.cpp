@@ -16,14 +16,14 @@ void dfs(int x, int start)
 {
 	if (x == n / 2)
 	{
-		int start = 0, link = 0;
+		int st = 0, lk = 0;
 		for (int i = 1; i <= n; i++){
 			for (int j = 1; j <= n; j++){
-				if (visited[i]&& visited[j]) start += input[i][j];
-				if (!visited[i]&& !visited[j]) link += input[i][j];
+				if (visited[i]&& visited[j]) st += input[i][j];
+				if (!visited[i]&& !visited[j]) lk += input[i][j];
 			}
 		}
-		int num = abs(start - link);
+		int num = abs(st - lk);
 		if (ans > num) ans = num; //ÃÖ¼Ú°ª ±â·Ï
 	}
 

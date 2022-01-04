@@ -55,6 +55,7 @@
 - [1707 이분 그래프(C++)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1707)
 - [2606 바이러스(C++/DFS)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2606)
 - [2178 미로찾기(C++/BFS)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2178)
-- [2667 단지번호붙이기 (C++/DFS)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2667)
+- [2667 단지번호붙이기(C++/DFS)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2667)
+- [14889 스타트와 링크(C++/DFS)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon14889)
 
 ## [programmers](https://programmers.co.kr/)

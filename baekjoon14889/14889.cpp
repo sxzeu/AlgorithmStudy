@@ -43,7 +43,7 @@ int main()
 	for (int i = 1; i <= n; i++)
 		for (int j = 1; j <= n; j++) cin >> input[i][j];
 
-	dfs(0, 1);
+	dfs(0, 1); // Ω√¿€ 
 
 	cout << ans;
 }

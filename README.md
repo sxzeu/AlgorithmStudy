@@ -60,6 +60,7 @@
 - [2644 촌수계산(C++/DFS)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2644)
 - [2164 카드2 (C++/queue)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon2164)
 - [1011 Fly me to the Alpha Centauri(C++)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon1011)
+- [12865 평범한 배낭(C++/DP)](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon12865)
 
 ## [다시 풀어야 할 문제]
 - [백준 14503 로봇청소기](https://github.com/sxzeu/AlgorithmStudy/tree/main/baekjoon14503)
